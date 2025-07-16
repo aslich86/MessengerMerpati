@@ -1,4 +1,4 @@
-# 🤖 MessengerMerpati — AI Chatbot with Sentiment Analysis
+# 🤖 MessengerMerpati — Project #1 AI Chatbot with Sentiment Analysis
 
 MessengerMerpati adalah aplikasi chatbot modern berbasis web yang dilengkapi dengan fitur **analisis sentimen** menggunakan NLP. Proyek ini dibangun menggunakan:
 
